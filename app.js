@@ -3,5 +3,5 @@
 
 ////Event Listner for Form Submit////
 document.addEventListener('DOMContentLoaded', () => {
-    document.querySelector('#div1').innerHTML = "This is a Message!"
+    document.querySelector('#div1').innerHTML = "This is a New Message!"
 });
